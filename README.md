@@ -24,10 +24,6 @@ This project demonstrates human pose estimation in the browser using [PoseNet](h
 
 > No installation required! It runs entirely client-side.
 
-## 🖼️ Screenshot
-
-![Example Pose Detection](images/Screenshot 2025-07-05 145226.png)
-
 
 ## 🛠️ Technologies Used
 
