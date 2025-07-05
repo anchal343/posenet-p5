@@ -26,7 +26,8 @@ This project demonstrates human pose estimation in the browser using [PoseNet](h
 
 ## 🖼️ Screenshot
 
-"C:\Users\Anchal\OneDrive\Pictures\Screenshots\Screenshot 2025-07-05 145226.png"
+![App Screenshot](images\Screenshot 2025-07-05 145226.png)
+
 
 ## 🛠️ Technologies Used
 
